@@ -125,22 +125,18 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <a href="https://www.linkedin.com/in/stasciobanu/" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
     <img src="images/linkedin-icon.svg" alt="LinkedIn" width="100" height="100" style="margin-right: 8px;">
-    <span style="font-size: 50px; color: #0077b5; font-weight: bold;">LinkedIn</span>
 </a>
 
 <a href="https://www.instagram.com/ssstasciobanu/" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-left: 30px;">
     <img src="images/Instagram_icon.png.webp" alt="LinkedIn" width="100" height="100" style="margin-right: 8px;">
-    <span style="font-size: 50px; color:rgb(255, 0, 43); font-weight: bold;">Instagram</span>
 </a>
 
 <a href="https://steamcommunity.com/id/Stasoid/" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-left: 30px;">
     <img src="images/steam-logo-transparent.png" alt="LinkedIn" width="100" height="100" style="margin-right: 8px;">
-    <span style="font-size: 50px; color:rgb(226, 226, 255); font-weight: bold;">Steam</span>
 </a>
 
 <a href="https://open.spotify.com/user/vze5pxumtpu5hsv7md7bgrmt8" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-left: 30px;">
     <img src="images/Spotify_logo_without_text.svg.png" alt="LinkedIn" width="100" height="100" style="margin-right: 8px;">
-    <span style="font-size: 50px; color:rgb(0, 233, 70); font-weight: bold;">Spotify</span>
 </a>
 
 
