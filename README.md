@@ -59,7 +59,7 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <img src="images/logo-2582748_1280.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
-<img src="images/images.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+<img src="images/css3.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 </div>
 
@@ -72,13 +72,13 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <div style="display:flex; align-items: center; justify-content: center;">
 
-<img src="images/25a85d9e5057430d82273a3c75e73014.jpg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+<img src="images/ASM-Symbol-Blue-Tight-002-min-300x300.png" style="width: 100px; height: 100px; margin:10px;">
 
 <img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667.svg" style="width: 100px; height: 100px; margin:10px;">
 
 <img src="images/java-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
-<img src="images/unnamed.jpg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+<img src="images/spring-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 <img src="images/pngimg.com - php_PNG29.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
@@ -103,7 +103,7 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <img src="images/21_Angular_logo_logos-512.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
-<img src="images/images (1).png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+<img src="images/free-redis-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175103.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 <img src="images/21_d3cvM_400x400.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
@@ -113,7 +113,7 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <img src="images/mongodb-icon-2.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
-<img src="images/redis-logo-png_seeklogo-273850.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+<img src="images/terraform.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 </div>
 
