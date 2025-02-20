@@ -35,7 +35,7 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <div>
 
-##  ⚡ Lnaguages and tools that I know
+##  ⚡ Languages and tools that I know
 
 </div>
 
@@ -66,7 +66,7 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <div>
 
-##  🎓 Lnaguages and tools that I am curently stuying 
+##  🎓 Languages and tools that I am curently stuying 
 
 </div>
 
@@ -88,7 +88,7 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 
 <div>
 
-##  🔭 Lnaguages and tools that I am planning to study
+##  🔭 Languages and tools that I am planning to study
 
 </div>
 
