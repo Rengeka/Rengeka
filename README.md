@@ -15,7 +15,9 @@ Hi there 👋
 <div style="font-size: 20px; align-items: center; justify-content: center;">
 
 ## 💬 About me :
-My name is Stanislav Ciobanu. Im an USM student that is studying computer science. I am passionate about programming and hope you will enjow browsing my GitHub 😃😃😃
+My name is Stanislav Ciobanu. Im an USM student that is studying computer science.
+
+I am passionate about programming and hope you will enjow browsing my GitHub 😃😃😃
 
 </div>
 
@@ -25,13 +27,16 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 ## 🎮 My hobbies :
 
 1. I like playing video games, so you can find my steam profile down below and call for a game 😏
+
 2. I enjoy playing board games (Does not matter is it D&D, Wargame or just a simple euro game) 🎲
+
 3. I like watching and analyzing films. I mean really like. I've read Syd Field's and Robert McKee's books... 🎬
+
 4. I am a kind of musician and some times we do covers with my brother 🎸
+
 5. I like reading books including science-fiction (Isac Asimov is the best) and non-fiction (Das Kapital, Plato's dialogues and e.t.c) 📘
 
 </div>
-
 
 <div>
 
@@ -62,7 +67,6 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 <img src="images/css3.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 </div>
-
 
 <div>
 
@@ -138,7 +142,6 @@ My name is Stanislav Ciobanu. Im an USM student that is studying computer scienc
 <a href="https://open.spotify.com/user/vze5pxumtpu5hsv7md7bgrmt8" target="_blank" style="display: flex; align-items: center; text-decoration: none; margin-left: 30px;">
     <img src="images/Spotify_logo_without_text.svg.png" alt="LinkedIn" width="100" height="100" style="margin-right: 8px;">
 </a>
-
 
 </div>
 
