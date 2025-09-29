@@ -40,10 +40,6 @@ I am passionate about programming and hope you will enjow browsing my GitHub ðŸ˜
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; margin-top: 30;  margin-bottom: 30;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rengeka&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; height: auto;">
-
-  <img src="https://iconduck.com/icons/20511/nasm.svg" alt="NASM" style="width: 60px; height: 60px;" />
-  <img src="https://iconduck.com/icons/20828/verilog.svg" alt="Verilog" style="width: 60px; height: 60px;" />
-
 </div>
 
 <div>
