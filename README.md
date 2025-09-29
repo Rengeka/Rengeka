@@ -70,9 +70,6 @@ I am passionate about programming and hope you will enjow browsing my GitHub ðŸ˜
 
 <img src="images/css3.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
-</div>
-
-<div style="display:flex; align-items: center; justify-content: center;">
 <img src="images/mongodb-icon-2.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 <img src="images/terraform.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
