@@ -40,91 +40,41 @@ I am passionate about programming and hope you will enjow browsing my GitHub �
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; margin-top: 30;  margin-bottom: 30;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rengeka&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; height: auto;">
-</div>
 
-<div>
-
-##  ⚡ Languages and tools that I know
-
-</div>
-
-<div style="display:flex; align-items: center; justify-content: center;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667.svg " style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667.svg" style=" width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667.svg" style=" width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667.svg" style="width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/logo-2582748_1280.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/css3.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/mongodb-icon-2.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/terraform.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/21_Angular_logo_logos-512.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/free-redis-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175103.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/pngimg.com - php_PNG29.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/java-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667.svg" style="width: 100px; height: 100px; margin:10px;">
-
-<img src="images/ASM-Symbol-Blue-Tight-002-min-300x300.png" style="width: 100px; height: 100px; margin:10px;">
+  <img src="https://iconduck.com/icons/20511/nasm.svg" alt="NASM" style="width: 60px; height: 60px;" />
+  <img src="https://iconduck.com/icons/20828/verilog.svg" alt="Verilog" style="width: 60px; height: 60px;" />
 
 </div>
 
 <div>
-
-##  🎓 Languages and tools that I am curently stuying 
-
+  <h2>⚡ Languages and tools that I know</h2>
 </div>
 
-<div style="display:flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,java,html,css,js,ts,python,php,mysql,mongodb,terraform,angular,redis,git,docker,azure,postman,github,gitlab,bitbucket&perline=9" alt="Known Tools" style="max-width: 100%; height: auto;" />
 
-<img src="images/spring-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/react.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/F_Sharp_logo.svg.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/rust-1.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/Go-Logo_Fuchsia.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/21_d3cvM_400x400.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/GraphQL_Logo.svg.png" style=" width: 100px; height: 100px; margin:10px;">
-
-<img src="images/4375063_logo_project_r_icon-1024x1024.webp" style=" width: 100px; height: 100px; margin:10px;">
+  
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjNjUzMWYzIiBkPSJNMCAwdjI0aDI0VjBoLTkuMjI1YzAgMS40MDYtMS4wNCAyLjgxMy0yLjc1NiAyLjgxM0EyLjc2NiAyLjc2NiAwIDAgMSA5LjIzNCAwem0xOC4yMDQgMTAuOTQ3cTEuMDYgMCAxLjgyLjQxMnEuNzc1LjM5NiAxLjMzIDEuMzYxbC0xLjcyNiAxLjEwOHEtLjI4NS0uNTA3LS42MTctLjcyOGExLjQgMS40IDAgMCAwLS44MDctLjIyMnEtLjQ5IDAtLjc3Ni4yN2EuOS45IDAgMCAwLS4yODUuNjhxMCAuNTA2LjMxNy43NzVxLjMzMy4yNTUgMS4wNDUuNTdsLjU1NC4yMzhxLjcxMS4zIDEuMjUuNjMzcS41NTQuMzE1LjkxOC43MjhhMi42IDIuNiAwIDAgMSAuNTcuOTE4cS4yMDYuNTA2LjIwNiAxLjIwM2EzIDMgMCAwIDEtLjI4NSAxLjMzcS0uMjcuNTctLjc2Ljk2NWEzLjQgMy40IDAgMCAxLTEuMTcxLjYwMXEtLjY2NS4xOS0xLjQ1Ni4xOWE1LjMgNS4zIDAgMCAxLTEuNDEtLjE3NGE0LjYgNC42IDAgMCAxLTEuMTM5LS40NzVhNCA0IDAgMCAxLS44ODYtLjcxMmE0LjUgNC41IDAgMCAxLS42MDItLjkwMkwxNi4xIDE4LjY3cS4zNjMuNTg1Ljg1NS45NjZxLjUwNS4zOCAxLjMzLjM4cS42OTUgMCAxLjA5MS0uMzAxcS40MTItLjMxNi40MTItLjc5MnEwLS41Ny0uNDI4LS44NTRxLS40MjctLjI4NS0xLjE4Ny0uNjE4bC0uNTU0LS4yMzdhOCA4IDAgMCAxLTEuMDkyLS41NTRhMy42IDMuNiAwIDAgMS0uODM5LS42OTZhMi45IDIuOSAwIDAgMS0uNTM4LS45MDNhMy40IDMuNCAwIDAgMS0uMTktMS4xODdhMyAzIDAgMCAxIC4yMjItMS4xNTVhMi45IDIuOSAwIDAgMSAuNjQ5LS45MzRxLjQyOC0uMzk2IDEuMDI5LS42MTdxLjYtLjIyMiAxLjM0NS0uMjIyem0tOC43OTYuMDMyaC4xOWw0LjkyMiAxMC44NThoLTIuMzI3bC0uNTA2LTEuMjE5SDcuMzE4bC0uNTA2IDEuMjE5SDQuNjc1em0uMDYzIDMuOTg4YTIyIDIyIDAgMCAxLS4yMDYuNjk3bC0uMjA1LjY0OWE3IDcgMCAwIDEtLjIyMi41ODVsLS43NzYgMS44NjhoMi44MzRsLS43NzYtMS44NjhhMTYgMTYgMCAwIDEtLjIzNy0uNjMzYTI0IDI0IDAgMCAxLS40MTItMS4yOTgiLz48L3N2Zz4=" alt="ASM" style="width: 40px; height: 40px; margin-left:10;" />
 </div>
 
 <div>
-
-##  🔭 Languages and tools that I am planning to study
-
+  <h2>🎓 Languages and tools that I am currently studying</h2>
 </div>
 
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=spring,react,rust,go,d3,graphql,r&perline=8" alt="Currently Studying" style="max-width: 100%; height: auto;" />
 
-<div style="display:flex; align-items: center; justify-content: center;">
-
-<img src="images/jenkins.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjMGJmZmYzIiBkPSJNMCAxMkwxMS4zOS42MXY1LjY5NUw1LjY5NSAxMmw1LjY5NSA1LjY5NXY1LjY5NXptNy4zMjIgMGw0LjA2OC00LjA2OHY4LjEzNnpNMjQgMTJMMTIuMjAzLjYxdjUuNjk1TDE3Ljg5OCAxMmwtNS42OTUgNS42OTV2NS42OTV6Ii8+PC9zdmc+" alt="F# / FSharp" style="width: 40px; height: 40px; margin-left:10;" />
 </div>
+
+<div>
+  <h2>🔭 Languages and tools that I am planning to study</h2>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=jenkins&perline=7" alt="Planning to Study" style="max-width: 100%; height: auto;" />
+</div>
+
 
 <div style="font-size: 20px;">
 
