@@ -38,6 +38,10 @@ I am passionate about programming and hope you will enjow browsing my GitHub ðŸ˜
 
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; margin-top: 30;  margin-bottom: 30;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rengeka&layout=compact&theme=tokyonight" alt="Top Languages" style="max-width: 100%; height: auto;">
+</div>
+
 <div>
 
 ##  âš¡ Languages and tools that I know
@@ -68,6 +72,25 @@ I am passionate about programming and hope you will enjow browsing my GitHub ðŸ˜
 
 </div>
 
+<div style="display:flex; align-items: center; justify-content: center;">
+<img src="images/mongodb-icon-2.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/terraform.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/21_Angular_logo_logos-512.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/free-redis-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175103.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/pngimg.com - php_PNG29.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/java-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667.svg" style="width: 100px; height: 100px; margin:10px;">
+
+<img src="images/ASM-Symbol-Blue-Tight-002-min-300x300.png" style="width: 100px; height: 100px; margin:10px;">
+
+</div>
+
 <div>
 
 ##  ðŸŽ“ Languages and tools that I am curently stuying 
@@ -76,18 +99,21 @@ I am passionate about programming and hope you will enjow browsing my GitHub ðŸ˜
 
 <div style="display:flex; align-items: center; justify-content: center;">
 
-<img src="images/ASM-Symbol-Blue-Tight-002-min-300x300.png" style="width: 100px; height: 100px; margin:10px;">
-
-<img src="images/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667.svg" style="width: 100px; height: 100px; margin:10px;">
-
-<img src="images/java-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
 <img src="images/spring-logo.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/pngimg.com - php_PNG29.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 <img src="images/react.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
+<img src="images/F_Sharp_logo.svg.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/rust-1.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/Go-Logo_Fuchsia.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/21_d3cvM_400x400.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
+
+<img src="images/GraphQL_Logo.svg.png" style=" width: 100px; height: 100px; margin:10px;">
+
+<img src="images/4375063_logo_project_r_icon-1024x1024.webp" style=" width: 100px; height: 100px; margin:10px;">
 </div>
 
 <div>
@@ -99,25 +125,7 @@ I am passionate about programming and hope you will enjow browsing my GitHub ðŸ˜
 
 <div style="display:flex; align-items: center; justify-content: center;">
 
-<img src="images/F_Sharp_logo.svg.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/rust-1.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/Go-Logo_Fuchsia.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/21_Angular_logo_logos-512.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/free-redis-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175103.webp" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/21_d3cvM_400x400.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
 <img src="images/jenkins.png" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/GraphQL_Logo.svg.png" style=" width: 100px; height: 100px; margin:10px;">
-
-<img src="images/mongodb-icon-2.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
-
-<img src="images/terraform.svg" style="border-radius: 50%; width: 100px; height: 100px; margin:10px;">
 
 </div>
 
